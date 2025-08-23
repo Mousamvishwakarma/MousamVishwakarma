@@ -1,39 +1,49 @@
-# Hi there, I'm Abhishek Kushwaha! 👋
+# Hi there, I'm Mousam Vishwakarma! 👋
 
 ## 🚀 About Me
-I'm a passionate **WordPress plugin developer**, **Full Stack Developer**, and **Machine Learning enthusiast**. I specialize in creating custom **WordPress plugins**, **WooCommerce solutions**, and **Elementor widgets** using **advanced development techniques**.
+I'm a **Full Stack Developer**. 
+- 🎯 **Goal**: To become a proficient software engineer and contribute to impactful projects.  
+- ⚡ **Fun Fact**: I love solving coding challenges and exploring new tech.
 
-## 💻 What I Do
-- 🔹 **WordPress Plugin Development** (Advanced custom features for Elementor, WooCommerce, and more)
-- 🔹 **Full Stack Web Development** (Next.js, Tailwind CSS, PHP, and more)
-- 🔹 **Machine Learning Projects** (Movie recommendation system, ML models deployment)
-- 🔹 **VPS & Server Management** (Hosting & Deployment)
-- 🔹 **Professional WooCommerce Themes** (Editable via Gutenberg & Elementor)
+## 💻 🔥 What I Do
+🔹 **Full Stack Web Development** (HTML, CSS, JavaScript, React, PHP, Laravel)
 
-## 🛠 Tech Stack
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend:** Node.js, PHP, Python, MySQL, MongoDB
-- **WordPress & WooCommerce:** Custom themes, Elementor Widgets, Plugin Development
-- **Machine Learning:** Python, Scikit-learn, TensorFlow
-- **DevOps & Hosting:** VPS (Inosos), Docker, Git, GitHub Actions
+🔹**Frontend Design** (Responsive UI/UX using Tailwind CSS, Bootstrap)
 
-## 📌 Featured Projects
-### 🌟 WordPress Plugins
-- **3D Image Widget for Elementor** 📸
-- **Multi-Currency Plugin for WooCommerce** 💰
-- **Backup Plugin for WordPress** 🔄
-- **Featured Video for WooCommerce Products** 🎥
+🔹**Backend Development** (API creation, Authentication, Database Management)
 
-### 🎬 Machine Learning
-- **Movie Recommendation System** 🎞️
-- **Predictive Analysis using ML Models** 📊
+🔹**Database Management** (MySQL, MongoDB)
+
+🔹**Git & Version Control** (Branching, Pull Requests, Collaboration)
+
+🔹**Project Deployment** (GitHub Pages, Vercel, or Hosting Platforms)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Java, PHP, Express.js.
+- **Databases:** MySQL, MongoDB
+- **Programming Languages:** JavaScript, Java, PHP.
+- **Version Control & Tools:** Git, GitHub, VS Code, Postman
+- **Other Skills:** REST API Development, Responsive UI/UX Design
+
+
+## 🚀 Featured Projects
+
+### [HealthyBox](https://github.com/mousamvishwakarma/healthyBox)
+A web application for healthy food ordering.  
+**Tech Used:** HTML, CSS, JavaScript, PHP, MySQL
+
+### [Portfolio Website](https://github.com/mousamvishwakarma/portfolio)
+Personal portfolio showcasing my projects and skills.  
+**Tech Used:** React, Tailwind CSS
 
 ## 📫 Let's Connect
-- 💼 [Portfolio Website](#) *(Coming Soon!)*
-- 📧 **Email:** abhishekkushwahaak0121@gmail.com
+- 💼 [Portfolio Website](#) *(https://github.com/Mousamvishwakarma/finalportfolio_my.git)*
+- 📧 **Email:** mousamvishwakarma2005@gmail.com
 - 🐦 [Twitter](#)
-- 💻 [LinkedIn](https://www.linkedin.com/in/abhishek-kushwaha-5a3a49302/)
-- 🏗️ [GitHub](https://github.com/professor0121/)
+- 💻 [LinkedIn](https://www.linkedin.com/in/mousamvishwakarma/)
+- 🏗️ [GitHub](https://github.com/Mousamvishwakarma/)
 
 ### 🌟 Support My Work
 If you like my work, consider giving a ⭐ to my repositories. Happy Coding! 🚀
