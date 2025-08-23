@@ -42,7 +42,7 @@ Personal portfolio showcasing my projects and skills.
 - 💼 [Portfolio Website](#) *(https://github.com/Mousamvishwakarma/finalportfolio_my.git)*
 - 📧 **Email:** mousamvishwakarma2005@gmail.com
 - 🐦 [Twitter](#)
-- 💻 [LinkedIn](https://www.linkedin.com/in/mousam-vishwakarma-1b6a/)
+- 💻 [LinkedIn](https://www.linkedin.com/in/mousam-vishwakarma-1b6a78340?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZpmmOEZxQyGBLPk3rnM%2Blw%3D%3D)
 - 🏗️ [GitHub](https://github.com/Mousamvishwakarma/)
 
 ### 🌟 Support My Work
