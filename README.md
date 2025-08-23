@@ -1,49 +1,39 @@
-Hi there, I'm Mousam Vishwakarma! 👋.
+# Hi there, I'm Abhishek Kushwaha! 👋
 
-🚀 About Me
+## 🚀 About Me
+I'm a passionate **WordPress plugin developer**, **Full Stack Developer**, and **Machine Learning enthusiast**. I specialize in creating custom **WordPress plugins**, **WooCommerce solutions**, and **Elementor widgets** using **advanced development techniques**.
 
-I'm a Full Stack Developer ,and Machine Learning enthusiast. 
+## 💻 What I Do
+- 🔹 **WordPress Plugin Development** (Advanced custom features for Elementor, WooCommerce, and more)
+- 🔹 **Full Stack Web Development** (Next.js, Tailwind CSS, PHP, and more)
+- 🔹 **Machine Learning Projects** (Movie recommendation system, ML models deployment)
+- 🔹 **VPS & Server Management** (Hosting & Deployment)
+- 🔹 **Professional WooCommerce Themes** (Editable via Gutenberg & Elementor)
 
-💻 What I Do
+## 🛠 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, PHP, Python, MySQL, MongoDB
+- **WordPress & WooCommerce:** Custom themes, Elementor Widgets, Plugin Development
+- **Machine Learning:** Python, Scikit-learn, TensorFlow
+- **DevOps & Hosting:** VPS (Inosos), Docker, Git, GitHub Actions
 
+## 📌 Featured Projects
+### 🌟 WordPress Plugins
+- **3D Image Widget for Elementor** 📸
+- **Multi-Currency Plugin for WooCommerce** 💰
+- **Backup Plugin for WordPress** 🔄
+- **Featured Video for WooCommerce Products** 🎥
 
-🔹 Full Stack Web Development (Next.js, Tailwind CSS, PHP, and more)
+### 🎬 Machine Learning
+- **Movie Recommendation System** 🎞️
+- **Predictive Analysis using ML Models** 📊
 
+## 📫 Let's Connect
+- 💼 [Portfolio Website](#) *(Coming Soon!)*
+- 📧 **Email:** abhishekkushwahaak0121@gmail.com
+- 🐦 [Twitter](#)
+- 💻 [LinkedIn](https://www.linkedin.com/in/abhishek-kushwaha-5a3a49302/)
+- 🏗️ [GitHub](https://github.com/professor0121/)
 
-
-🛠 Tech Stack
-
-Frontend: React.js, Tailwind CSS, HTML, CSS, JavaScript
-
-Backend: Node.js, PHP, Python, MySQL
-
-
-WordPress & WooCommerce: Custom themes, Elementor Widgets, Plugin Development
-
-Machine Learning: Python, Scikit-learn, TensorFlow
-
-DevOps & Hosting: VPS (Inosos), Docker, Git, GitHub Actions
-
-📌 Featured Projects
-
-3D Image Widget for Elementor 📸
-
-🎬 Machine Learning
-
-Predictive Analysis using ML Models 📊
-
-📫 Let's Connect
-
-💼 Portfolio Website (https://github.com/Mousamvishwakarma/finalportfolio_my.git)
-
-📧 Email: mousamvishwakarma2005@gmail.com
-
-🐦 Twitter: 
-
-💻 LinkedIn: https://www.linkedin.com/in/mousam-vishwakarma
-
-🏗️ GitHub: https://github.com/Mousamvishwakarma
-
-🌟 Support My Work
-
+### 🌟 Support My Work
 If you like my work, consider giving a ⭐ to my repositories. Happy Coding! 🚀
