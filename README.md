@@ -38,7 +38,7 @@ A web application for healthy food ordering.
 Personal portfolio showcasing my projects and skills.  
 **Tech Used:** React, Tailwind CSS
 
-### [BlockchainReact](https://blockchain2311.netlify.app/)  
+### [BlockchainReact](https://github.com/Mousamvishwakarma/BlockChainReact)  
 A decentralized voting application built on the Ethereum blockchain to ensure secure and transparent elections.  
 **Tech Used:** Solidity, Ethereum, Web3.js, React, Tailwind CSS  
 
